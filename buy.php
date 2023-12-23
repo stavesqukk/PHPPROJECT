@@ -1,3 +1,4 @@
+
 <?php
 // Connect to MySQL database
 $con = mysqli_connect('localhost','root','');
